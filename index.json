@@ -1,11 +1,11 @@
 {
-    "name": "",
+    "name": "Hu Tao Theme",
     "version": "1.0.0",
-    "description": "",
+    "description": "no",
     "includes": {
         "css": ["/index.css"],
         "js": ["/index.js"]
     },
 
-    "customBackgroundPath": "/backgrounds/"
+    "customBackgroundPath": "/assets/tao.jpg"
 }
