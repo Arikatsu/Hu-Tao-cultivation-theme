@@ -1,0 +1,50 @@
+.TopBar {
+    background-color: #470000;
+}
+
+#version {
+    color: #888888;
+}
+
+.RightBar {
+    background-color: rgba(100, 20, 0, 0.2);
+}
+
+.NewsSection {
+    background-color: rgba(50, 10, 0, 0.4);
+}
+
+.NewsTabs {
+    background-color: rgba(50, 10, 0, 0.4);
+}
+
+.BottomSection {
+    backdrop-filter: blur(0px);
+    box-shadow: inset 0px 0px 0px 0px;
+}
+
+.BottomSection 
+.CheckboxDisplay {
+    background-color: rgba(50, 10, 0, 1);
+}
+
+.TextInput {
+    color: white;
+    border-bottom: 2px solid red;
+    background-color: rgba(50, 10, 0, 0.6);
+}
+
+.HelpContents 
+.MiniDialog {
+    color: white;
+    background-color: rgba(50, 10, 0, 0.6);
+}
+
+.BigButton {
+    background: linear-gradient(brown, darkred);
+    color: burlywood;
+}
+
+.ServerIcon {
+    filter: invert(100%) sepia(38%) saturate(1140%) hue-rotate(352deg) brightness(86%) contrast(88%);
+}

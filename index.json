@@ -1,0 +1,11 @@
+{
+    "name": "",
+    "version": "1.0.0",
+    "description": "",
+    "includes": {
+        "css": ["/index.css"],
+        "js": ["/index.js"]
+    },
+
+    "customBackgroundPath": "/backgrounds/"
+}
