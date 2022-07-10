@@ -3,7 +3,15 @@
     "version": "1.0.0",
     "description": "no",
     "includes": {
+<<<<<<< HEAD
         "css": ["/tao.css"],
         "js": ["/audio.js", "/news.js"]
     }
+=======
+        "css": ["/index.css"],
+        "js": ["/index.js"]
+    },
+
+    "customBackgroundPath": "/assets/tao.jpg"
+>>>>>>> 297684ecbc95b96dfc202d3ac4c0b0c170a97f0a
 }
